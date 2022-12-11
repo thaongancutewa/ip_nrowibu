@@ -1,1 +1,1 @@
-ThaoNgan:0.tcp.ap.ngrok.io:11664:0,0,0
+ThaoNgan:0.tcp.ap.ngrok.io:10152:0,0,0
